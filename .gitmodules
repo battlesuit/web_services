@@ -1,0 +1,6 @@
+[submodule "loader"]
+	path = loader
+	url = https://github.com/battlesuit/loader.git
+[submodule "test"]
+	path = test
+	url = https://github.com/battlesuit/test.git
