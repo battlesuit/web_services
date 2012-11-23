@@ -19,3 +19,6 @@
 [submodule "inflector"]
 	path = inflector
 	url = https://github.com/battlesuit/inflector.git
+[submodule "http"]
+	path = http
+	url = https://github.com/battlesuit/http.git
