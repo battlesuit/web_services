@@ -1,5 +1,4 @@
-bs.Shell
-========
+bs.web_services
+===============
 
-Battlesuit Shell for PHP 5.3+
-This bundle should serve as a wrapper for all other submodules
+This bundle contains all default battlesuit web modules

@@ -4,9 +4,6 @@
 [submodule "test"]
 	path = test
 	url = https://github.com/battlesuit/test.git
-[submodule "display"]
-	path = display
-	url = https://github.com/battlesuit/display.git
 [submodule "http-action"]
 	path = http-action
 	url = https://github.com/battlesuit/http-action.git
@@ -16,9 +13,9 @@
 [submodule "http-router"]
 	path = http-router
 	url = https://github.com/battlesuit/http-router.git
-[submodule "inflector"]
-	path = inflector
-	url = https://github.com/battlesuit/inflector.git
 [submodule "http"]
 	path = http
 	url = https://github.com/battlesuit/http.git
+[submodule "str-inflections"]
+	path = str-inflections
+	url = https://github.com/battlesuit/str-inflections.git
